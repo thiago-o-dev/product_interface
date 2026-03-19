@@ -1,2 +1,3 @@
 # product_interface
-flutter project
+
+A new Flutter project.
